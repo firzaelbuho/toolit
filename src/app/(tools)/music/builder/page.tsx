@@ -1,7 +1,7 @@
 "use client"
 // music/page.tsx
 import React from 'react';
-import LoginForm from '@/components/LoginForm';
+import LoginForm from '@/components/auth/LoginForm';
 // import playSynth from '@/modules/ToneMethods';
 import { useState } from 'react';
 import { useEffect } from 'react';

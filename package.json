@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@tonejs/midi": "^2.0.28",
+    "axios": "^1.6.7",
     "midi-player-js": "^2.0.16",
     "next": "14.0.4",
     "react": "^18",
@@ -17,6 +18,7 @@
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "^18",
     "react-dropzone": "^14.2.3",
+    "swr": "^2.2.4",
     "tone": "^14.7.77"
   },
   "devDependencies": {

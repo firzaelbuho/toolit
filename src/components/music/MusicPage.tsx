@@ -2,7 +2,7 @@
 
 'use client';
 import React from 'react';
-import LoginForm from '@/components/LoginForm';
+import LoginForm from '@/components/auth/LoginForm';
 import playSynth from '@/modules/music/ToneMethods';
 import { useState } from 'react';
 import { useEffect } from 'react';
